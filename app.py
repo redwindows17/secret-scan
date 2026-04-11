@@ -1,3 +1,1 @@
-GITHUB_KEY=djhvijldshfuidfsydfdjbvkjcbvhicx67v7cyvnbcn6bnv6ckxjbvh
-GITHUB_KEY=djhvijldshfuidfsydfdjbvkjcbvhicx67v7cyvnbcn6bnv6ckxjbvh
-GITHUB_KEY=djhvijldshfuidfsydfdjbvkjcbvhicx67v7cyvnbcn6bnv6ckxjbvh
+GITHUB_KEY="<replace-with-actual-key-from-secure-vault>"
